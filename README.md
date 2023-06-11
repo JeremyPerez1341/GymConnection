@@ -12,5 +12,4 @@ SweatSocial es una empresa que se encarga de desarrollar software para el sector
 Pedro Jeremy, Perez Pizarro
 Rodrigo Alejandro, Raymundo Guevara
 Sebastián Jesús, Ramirez Zapata
-Marco Antonio, Collantes Artola
 Piero Stefano Marquez
